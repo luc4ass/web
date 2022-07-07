@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!--
+	Astral by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Astral by HTML5 UP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper-->
+    <div id="wrapper">
+      <!-- Nav -->
+      <nav id="nav"> <a href="#" class="icon solid fa-home"><span>Home</span></a>
+        <a href="#work" class="icon solid fa-folder"><span>Servers</span></a> <a
+          href="#contact" class="icon solid fa-envelope"><span>Contact</span></a>
+      </nav>
+      <!-- Main -->
+      <div id="main">
+        <!-- Me -->
+        <article id="home" class="panel intro">
+          <header>
+            <h1>Lucas CG</h1>
+            <p>! Lucas.Js#5036</p>
+          </header>
+          &nbsp;<a href="Serversk" class="jumplink pic"><img src="images/me.jpg"
+              alt=""> </a> </article>
+        <!-- Work -->
+        <article id="work" class="panel">
+          <header>
+            <h2>Servers</h2>
+          </header>
+          <p> Servers by Lucas </p>
+          <section>
+            <div class="row">
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/Kpjq3PpDDa"
+                  class="image fit" target="_blank"><img src="images/pic01.jpg"
+                    alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/pYqwuHhBnP"
+                  class="image fit" target="_blank"><img src="images/pic02.jpg"
+                    alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/uXB57kFjvC"
+                  class="image fit" target="_blank"><img src="images/pic03.jpg"
+                    alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/WyhT54PPkn"
+                  class="image fit"><img src="images/pic04.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/5ad9x68yHB"
+                  class="image fit"><img src="images/pic05.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/7ApZP4fQwu"
+                  class="image fit"><img src="images/pic06.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/N76Ss5PbYh"
+                  class="image fit"><img src="images/pic07.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/XnYSkRCFE9"
+                  class="image fit"><img src="images/pic08.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/wqu5w5Tf7z"
+                  class="image fit"><img src="images/pic09.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/wpGGY997r5"
+                  class="image fit"><img src="images/pic10.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/wheazc8c6K"
+                  class="image fit"><img src="images/pic11.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/6KweH6R8VM"
+                  class="image fit"><img src="images/pic12.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/senZe6vfta"
+                  class="image fit"><img src="images/pic13.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/JcnNSvbuQ5"
+                  class="image fit"><img src="images/pic14.jpg" alt=""></a> </div>
+              <div class="col-4 col-6-medium col-12-small"> <a href="https://discord.gg/fBEAdECbwC"
+                  class="image fit"><img src="images/pic15.jpg" alt=""></a> </div>
+            </div>
+          </section>
+        </article>
+        <!-- Contact -->
+        <article id="contact" class="panel">
+          <header>
+            <h2>Contact Me</h2>
+          </header>
+          <form action="#" method="post">
+            <div>
+              <div class="row"><br>
+                <div class="col-12"><b>• Gmail<span style="color: #777777;"> </span></b><b>▸
+                    &nbsp; &nbsp; &nbsp; &nbsp;</b> quilufi@gmail.com</div>
+                <div class="col-12"><b>• Discord ▸&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  </b>! Lucas.Js#5036&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; l(s#5059</div>
+                <div class="col-12" style="text-align: left;"><b>• INSTAGRAM </b><b>▸</b>
+                  <a href="https://www.instagram.com/luc4s_cg_/" title="luc4s_cg_">luc4s_cg_</a></div>
+                <div class="col-12"><br>
+                </div>
+              </div>
+            </div>
+          </form>
+        </article>
+      </div>
+      <!-- Scripts -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/browser.min.js"></script>
+      <script src="assets/js/breakpoints.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <script src="assets/js/main.js"></script> </div>
+  </body>
+</html>
